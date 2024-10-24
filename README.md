@@ -1,6 +1,6 @@
 # 🦁 Wild Animals Detection using YOLOv8
 
-A comprehensive implementation of a wild animals detection system using YOLOv8, Roboflow, and Python. This project enables real-time detection and tracking of wild animals in both images and videos.
+A comprehensive implementation of a wild animals detection system using YOLOv8, Roboflow, and Python. This project enables real-time detection and tracking of wild animals in images and videos. 
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLO-v8-brightgreen.svg)
