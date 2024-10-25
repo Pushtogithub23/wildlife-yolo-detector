@@ -33,7 +33,7 @@ pip install roboflow ultralytics supervision opencv-python matplotlib numpy requ
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wildlife-yolo-detector.git
+git clone https://github.com/Pushtogithub23/wildlife-yolo-detector.git
 cd wildlife-yolo-detector
 ```
 
