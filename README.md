@@ -149,4 +149,5 @@ model.train(
 - [Supervision](https://github.com/roboflow/supervision) for annotation tools
 
 You can find the project on Roboflow by clicking [here](https://universe.roboflow.com/puspendu-ai-vision-workspace/wild-animals-detection-fspct)
+
 You can view the training results on wandb(Weights & Biases) by clicking [here](https://wandb.ai/ranapuspendu24-iit-madras-foundation/Ultralytics/runs/o2ze0pai/workspace?nw=nwuserranapuspendu24)
