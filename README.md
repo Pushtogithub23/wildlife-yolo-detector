@@ -51,7 +51,6 @@ pip install -r requirements.txt
 ### Image Detection
 
 ```python
-from detection import display_prediction
 
 # For local images
 display_prediction(
@@ -79,7 +78,6 @@ I have attached a few image detections below:
 ### Video Detection
 
 ```python
-from detection import predict_in_videos
 
 predict_in_videos(
     "DATA/VIDEOS/test_videos/zebras.mp4",
